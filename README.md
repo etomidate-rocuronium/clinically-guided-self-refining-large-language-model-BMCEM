@@ -3,7 +3,7 @@ Github repository containing environment.yml and code implemented for the manusc
 
 August 1st, 2026  
 Jihan Heo M.D.  
-Board certified in Emergency Medicine  
-Board certified in Critical Care Medicine  
+Board certified in Emergency Medicine (South Korea)  
+Board certified in Critical Care Medicine (South Korea)  
 E-mail: resuscitation9141@gmail.com.  
 
