@@ -4,7 +4,7 @@ Github repository containing environment.yml and code implemented for the manusc
 If you have any questions regarding the code, please contact the first author, below.
 
 Jihan Heo M.D.
-Ph.D. candidate at Seoul National University, College of Engineering, Interdisciplinary Program in Bioengineering
 Board certified in Emergency Medicine (South Korea)  
 Board certified in Critical Care Medicine (South Korea)  
+Ph.D. candidate at Seoul National University, College of Engineering, Interdisciplinary Program in Bioengineering  
 E-mail: resuscitation9141@gmail.com.
